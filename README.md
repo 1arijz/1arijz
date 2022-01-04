@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student
+I am a student who has a burning hatred for electron
 - 📫 How to reach me: IYKYK
 <!--
 **ariiiiiiiiiiiiiZ/ariiiiiiiiiiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
