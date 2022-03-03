@@ -2,6 +2,8 @@
 
 I am a student who has a burning hatred for electron
 - 📫 How to reach me: IYKYK
+- - 🌱 I’m currently learning (and looking for help learning) OpenGL in C++
+
 <!--
 **ariiiiiiiiiiiiiZ/ariiiiiiiiiiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
