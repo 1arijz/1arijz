@@ -2,7 +2,7 @@
 
 I am a student who has a burning hatred for electron
 - 📫 How to reach me: IYKYK
-  - 🌱 I’m currently learning (and looking for help learning) graphics in C++
+ - 🌱 I’m currently learning (and looking for help learning) graphics in C++
 - ⚡ Fun fact: Try spelling "IntenseGoat" backwards
 
 <!--
