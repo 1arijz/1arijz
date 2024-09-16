@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Ari
 
-I am a student who has a burning hatred for electron
-- 📫 How to reach me: IYKYK
-  - 🌱 I’m currently learning (and looking for help learning) graphics in C++
-- ⚡ Fun fact: Try spelling "IntenseGoat" backwards
+I am a student at Illinois who enjoys sailing and systems programming
+- 📫 How to reach me: arijz2 @ my school's domain
+- 🌱 I'm perpetually learning computer graphics
+- ⚡ Fun fact: The only reward I've reaped from programming is a Nintendo Switch Lite
 
 <!--
 **ariiiiiiiiiiiiiZ/ariiiiiiiiiiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
