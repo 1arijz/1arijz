@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ari
 
-I am a student at Illinois who enjoys sailing and systems programming
+I am an NPRE student at Illinois who enjoys sailing and systems programming
 - 📫 How to reach me: arijz2 @ my school's domain
 - 🌱 I'm perpetually learning computer graphics
 - ⚡ Fun fact: The only reward I've reaped from programming is a Nintendo Switch Lite
