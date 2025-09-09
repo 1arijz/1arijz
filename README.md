@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Ari
 
-I am an NPRE student at Illinois who enjoys sailing and systems programming
+I am an NPRE & Math student at Illinois who enjoys sailing and systems programming
 - 📫 How to reach me: arijz2 @ my school's domain
 - 🌱 I'm perpetually learning computer graphics
-- ⚡ Fun fact: The only reward I've reaped from programming is a Nintendo Switch Lite
-
 <!--
 **ariiiiiiiiiiiiiZ/ariiiiiiiiiiiiiZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
